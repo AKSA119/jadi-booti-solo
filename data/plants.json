@@ -1,0 +1,294 @@
+[
+  {
+    "id": "neem",
+    "commonName": "Neem",
+    "scientificName": "Azadirachta indica",
+    "hindiNames": [
+      "नीम",
+      "Neem"
+    ],
+    "summary": "A common South Asian tree known for its compound leaves, small white flowers and bitter-tasting parts.",
+    "ecology": "Neem is a hardy tree found in warm climates and is widely planted around roads, homes and fields.",
+    "traditionalNote": "Neem has a long history of traditional and cultural use in South Asia. Traditional use is not medical advice.",
+    "sources": [
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q156797"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Azadirachta_indica"
+      }
+    ]
+  },
+  {
+    "id": "peepal",
+    "commonName": "Peepal",
+    "scientificName": "Ficus religiosa",
+    "hindiNames": [
+      "पीपल",
+      "Peepal"
+    ],
+    "summary": "A large fig tree with distinctive heart-shaped leaves and a long leaf tip.",
+    "ecology": "It is an important fig tree whose fruits can provide food for animals and birds.",
+    "traditionalNote": "Peepal has strong cultural significance in South Asia. Cultural significance does not imply a health effect.",
+    "sources": [
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q156886"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ficus_religiosa"
+      }
+    ]
+  },
+  {
+    "id": "banyan",
+    "commonName": "Banyan",
+    "scientificName": "Ficus benghalensis",
+    "hindiNames": [
+      "बरगद",
+      "Bargad"
+    ],
+    "summary": "A large fig tree famous for aerial roots that can grow down from branches and form new trunks.",
+    "ecology": "Its figs are eaten by wildlife and the mature canopy can provide extensive habitat.",
+    "traditionalNote": "The banyan has deep cultural importance in India.",
+    "sources": [
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q157014"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ficus_benghalensis"
+      }
+    ]
+  },
+  {
+    "id": "mango",
+    "commonName": "Mango",
+    "scientificName": "Mangifera indica",
+    "hindiNames": [
+      "आम",
+      "Aam"
+    ],
+    "summary": "A tropical evergreen tree cultivated widely for its fruit and valued in South Asian food culture.",
+    "ecology": "Mango trees provide flowers and fruit used by many insects, birds and mammals.",
+    "traditionalNote": "Mango is deeply embedded in South Asian food and cultural traditions.",
+    "sources": [
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q160005"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mango"
+      }
+    ]
+  },
+  {
+    "id": "tulsi",
+    "commonName": "Holy basil",
+    "scientificName": "Ocimum tenuiflorum",
+    "hindiNames": [
+      "तुलसी",
+      "Tulsi"
+    ],
+    "summary": "An aromatic herb widely grown around homes and gardens in South Asia.",
+    "ecology": "Its flowers can attract pollinating insects.",
+    "traditionalNote": "Tulsi has important cultural and traditional roles. Traditional uses should not be treated as medical advice.",
+    "sources": [
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q156952"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum"
+      }
+    ]
+  },
+  {
+    "id": "guava",
+    "commonName": "Guava",
+    "scientificName": "Psidium guajava",
+    "hindiNames": [
+      "अमरूद",
+      "Amrood"
+    ],
+    "summary": "A small tropical tree or shrub with aromatic fruit and pale flowers.",
+    "ecology": "Its fruit is eaten by people and wildlife and its flowers can attract pollinators.",
+    "traditionalNote": "Guava is an important food plant in many tropical regions.",
+    "sources": [
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q157308"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Guava"
+      }
+    ]
+  },
+  {
+    "id": "jamun",
+    "commonName": "Jamun",
+    "scientificName": "Syzygium cumini",
+    "hindiNames": [
+      "जामुन",
+      "Jamun"
+    ],
+    "summary": "An evergreen tree producing dark purple to black fruit when mature.",
+    "ecology": "Its flowers and fruit support insects and fruit-eating animals.",
+    "traditionalNote": "Jamun is widely known as a fruit tree in South Asia; traditional uses are not medical advice.",
+    "sources": [
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q163845"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Syzygium_cumini"
+      }
+    ]
+  },
+  {
+    "id": "ashoka",
+    "commonName": "Ashoka",
+    "scientificName": "Saraca asoca",
+    "hindiNames": [
+      "अशोक",
+      "Ashok"
+    ],
+    "summary": "A tropical tree known for clusters of fragrant flowers and compound leaves.",
+    "ecology": "It is a native South Asian tree associated with moist tropical habitats.",
+    "traditionalNote": "Ashoka has cultural and traditional significance. Traditional claims are not medical advice.",
+    "sources": [
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q155812"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saraca_asoca"
+      }
+    ]
+  },
+  {
+    "id": "guava-leaf",
+    "commonName": "Guava leaf",
+    "scientificName": "Psidium guajava",
+    "hindiNames": [
+      "अमरूद का पत्ता",
+      "Amrood ka patta"
+    ],
+    "summary": "The broad, textured leaf of the guava tree, often easy to recognize by its visible veins.",
+    "ecology": "Leaves are part of the plant's photosynthetic system and contribute to the tree's growth.",
+    "traditionalNote": "Traditional leaf uses should not be treated as medical advice.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Guava"
+      }
+    ]
+  },
+  {
+    "id": "gulmohar",
+    "commonName": "Gulmohar",
+    "scientificName": "Delonix regia",
+    "hindiNames": [
+      "गुलमोहर",
+      "Gulmohar"
+    ],
+    "summary": "A widely planted ornamental tree recognized by its broad crown and showy flowers.",
+    "ecology": "It is commonly cultivated in tropical and subtropical regions and can provide shade and habitat.",
+    "traditionalNote": "This entry focuses on botany and cultural observation rather than medicinal claims.",
+    "sources": [
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q146991"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Delonix_regia"
+      }
+    ]
+  },
+  {
+    "id": "sunflower",
+    "commonName": "Sunflower",
+    "scientificName": "Helianthus annuus",
+    "hindiNames": [
+      "सूरजमुखी",
+      "Surajmukhi"
+    ],
+    "summary": "A tall annual plant known for its large bright yellow flower heads that exhibit heliotropism in early growth.",
+    "ecology": "Provides copious nectar and pollen for bees, butterflies, and pollinators, and seeds for birds and wildlife.",
+    "traditionalNote": "Widely cultivated for its edible oil and seeds. Cultural symbol of vitality and sun worship in various traditions.",
+    "sources": [
+      {
+        "name": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q171497"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Helianthus_annuus"
+      }
+    ]
+  },
+  {
+    "id": "hibiscus",
+    "commonName": "Hibiscus",
+    "scientificName": "Hibiscus rosa-sinensis",
+    "hindiNames": [
+      "गुड़हल",
+      "Gudhal"
+    ],
+    "summary": "An evergreen flowering shrub with showy, trumpet-shaped flowers in vibrant red, orange, and pink hues.",
+    "ecology": "Attracts nectar-feeding hummingbirds, butterflies, and honeybees.",
+    "traditionalNote": "Widely used in traditional South Asian herbal teas and hair care remedies. Not medical advice.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hibiscus_rosa-sinensis"
+      }
+    ]
+  },
+  {
+    "id": "rose",
+    "commonName": "Rose",
+    "scientificName": "Rosa",
+    "hindiNames": [
+      "गुलाब",
+      "Gulab"
+    ],
+    "summary": "A woody perennial flowering plant known for fragrant multi-petaled blooms and thorny stems.",
+    "ecology": "Rose hips provide autumn and winter food for birds and small mammals.",
+    "traditionalNote": "Cultivated across centuries for rose water (Gulaab jal), fragrance, and herbal infusions.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rose"
+      }
+    ]
+  },
+  {
+    "id": "marigold",
+    "commonName": "Marigold",
+    "scientificName": "Tagetes erecta",
+    "hindiNames": [
+      "गेंदा",
+      "Genda"
+    ],
+    "summary": "A hardy herbaceous plant with aromatic feathery foliage and bright golden-yellow to orange ruffled flowers.",
+    "ecology": "Common companion plant that repels nematodes and attracts beneficial predatory insects.",
+    "traditionalNote": "Central to festive garlands and celebratory decoration throughout India and South Asia.",
+    "sources": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tagetes_erecta"
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "jadi-booti-solo",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Jadi-Booti Solo - a place-linked personal nature memory app",
+  "scripts": {
+    "dev": "concurrently \"node server/index.js\" \"vite client --host 0.0.0.0\"",
+    "server": "node server/index.js",
+    "client": "vite client --host 0.0.0.0",
+    "build": "vite build client"
+  },
+  "dependencies": {
+    "@huggingface/inference": "^4.13.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "vite": "^7.1.7"
+  }
+}

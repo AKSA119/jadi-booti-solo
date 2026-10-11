@@ -1,0 +1,6 @@
+node_modules/
+.env
+data/notes.json
+client/dist/
+dist/
+.DS_Store
